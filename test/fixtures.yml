@@ -59,6 +59,11 @@ ideal_ing_postbank:
   pem: |--
     PASTE YOUR PEM FILE HERE
 
+itransact:
+  login: API_ACCESS_USERNAME
+  password: API_ACCESS_KEY
+  gateway_id: GATEWAY_ID
+
 linkpoint:
   login: STOREID
   pem: |--
